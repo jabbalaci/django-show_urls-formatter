@@ -10,7 +10,7 @@ Normal usage:
 
     $ ./manage.py show_urls
 
-Before: ![before](https://github.com/jabbalaci/django-show_urls-formatter/blob/master/assets/before.jpg)
+![before](https://raw.githubusercontent.com/jabbalaci/django-show_urls-formatter/master/assets/before.jpg)
 
 after
 -----
@@ -19,4 +19,4 @@ Usage of the beautifier:
 
     $ ./manage.py show_urls | fmt.py
 
-After: ![after](https://github.com/jabbalaci/django-show_urls-formatter/blob/master/assets/after.jpg)
+![after](https://raw.githubusercontent.com/jabbalaci/django-show_urls-formatter/master/assets/after.jpg)
