@@ -32,5 +32,5 @@ About
 -----
 
 * Author:  Laszlo Szathmary, 2014 (<jabba.laci@gmail.com>)
-* Website: <https://pythonadventures.wordpress.com>
+* Website: <http://pythonadventures.wordpress.com/2014/07/11/django-show_urls-formatter/>
 * GitHub:  <https://github.com/jabbalaci/django-show_urls-formatter>
