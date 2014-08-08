@@ -1,5 +1,5 @@
 **Update (20140808):** This project has become obsolete. After contacting the authors
-of `django-extensions` [1], they decided to integrate this functionality. Just install the
+of `django-extensions` ([see the ticket] [1]), they decided to integrate this functionality. Just install the
 latest version of `django-extensions` and use it like this:
 
     ./manage.py show_urls -f table
@@ -7,7 +7,7 @@ latest version of `django-extensions` and use it like this:
 
 I leave this project here but don't use it.
 
-[1]: <https://github.com/django-extensions/django-extensions/issues/524>
+[1]: https://github.com/django-extensions/django-extensions/issues/524
 
 ---------------------
 
